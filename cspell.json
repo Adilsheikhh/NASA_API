@@ -1,0 +1,30 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "APOD",
+    "apod",
+    "hdurl",
+    "Tailwind",
+    "lucide",
+    "pnpm",
+    "Vercel",
+    "nextjs",
+    "TypeScript",
+    "openai",
+    "GPT",
+    "copilot",
+    "astronomical",
+    "astronomy",
+    "NASA",
+    "nasa"
+  ],
+  "flagWords": [],
+  "ignorePaths": [
+    "node_modules/**",
+    ".next/**",
+    "dist/**",
+    "build/**",
+    "*.min.js"
+  ]
+}
